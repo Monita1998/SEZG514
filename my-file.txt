@@ -1,1 +1,2 @@
-"My file with some content" 
+Some existing content from another user
+My file with some content
